@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ladydev\\TestAPI\\TestAPI.csproj": {}
+    "C:\\Users\\ladydev\\NetCore6WithAngularDemo\\TestApi\\TestAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ladydev\\TestAPI\\TestAPI.csproj": {
+    "C:\\Users\\ladydev\\NetCore6WithAngularDemo\\TestApi\\TestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ladydev\\TestAPI\\TestAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ladydev\\NetCore6WithAngularDemo\\TestApi\\TestAPI.csproj",
         "projectName": "TestAPI",
-        "projectPath": "C:\\Users\\ladydev\\TestAPI\\TestAPI.csproj",
+        "projectPath": "C:\\Users\\ladydev\\NetCore6WithAngularDemo\\TestApi\\TestAPI.csproj",
         "packagesPath": "C:\\Users\\ladydev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ladydev\\TestAPI\\obj\\",
+        "outputPath": "C:\\Users\\ladydev\\NetCore6WithAngularDemo\\TestApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ladydev\\AppData\\Roaming\\NuGet\\NuGet.Config"

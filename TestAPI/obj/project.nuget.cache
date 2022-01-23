@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sb3h2pAl4ZxyqORTXnK+73NO0Ki8Q5YDcMT0+miA1EjLHwKnHyVYw4oQJrQac08aXOLggFbEos7BlkVQloPAvg==",
+  "dgSpecHash": "bcD63pd864nX7aFljMwxmDy+1wu/Ib8QZ05e7zgwTeCh4mrsIdZ2wBf44zJ3G4GDTDcIKT7OLZOUBMkzqh+7XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ladydev\\TestAPI\\TestAPI.csproj",
+  "projectFilePath": "C:\\Users\\ladydev\\NetCore6WithAngularDemo\\TestApi\\TestAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ladydev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ladydev\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.1\\microsoft.aspnetcore.jsonpatch.6.0.1.nupkg.sha512",
